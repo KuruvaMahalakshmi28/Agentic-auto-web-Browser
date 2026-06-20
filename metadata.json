@@ -1,0 +1,6 @@
+{
+  "name": "AgentWeb Framework",
+  "description": "An advanced full-stack web research multi-agent system workspace, featuring interactive planners, simulated Playwright execution logs, and evaluator-critic feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
